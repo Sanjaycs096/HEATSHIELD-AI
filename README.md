@@ -87,7 +87,7 @@ HeatShield AI utilizes **Groq** to generate highly contextual safety plans.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Sanjaycs096/HEATSHIELD-AI.git
-   cd heatshield-app
+   cd HEATSHIELD-AI
    ```
 
 2. **Install dependencies:**
