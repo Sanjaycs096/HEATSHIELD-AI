@@ -1,0 +1,3440 @@
+{
+  "users": [
+    {
+      "id": "0987b066-5dfb-4578-aaed-84c5d10c8016",
+      "email": "test1791477248549@example.com",
+      "passwordHash": "8a965ce4db740e65b233a607ad1de7e8:b4ba757f781612a5c1e3749123fd6d45ff27060db693ad63ff393e95afb8dddfefe5a432c75dcde22981879f1a120fd4e63291a087575846500ec2ef1d90ba0c",
+      "createdAt": 1791477248744
+    },
+    {
+      "id": "edb11276-23eb-4a00-bacd-9eced0d03648",
+      "email": "test1791477300651@example.com",
+      "passwordHash": "08e4c3002db72b4c288bae4bb44bf460:a33cf2c64f301ae09dd26132a5d3d19ca712920fc9b1e57871189d153dbb77a8bf58ee6ed5e2f470219d0cb384f1c754f9f234b0e0ef432236107d2ee6f4f96b",
+      "createdAt": 1791477300851
+    },
+    {
+      "id": "6c3087c2-6330-4b83-ab51-f0f456a97147",
+      "email": "test1791477360446@example.com",
+      "passwordHash": "00c1d3213f52ee046fda9404c828ee77:f14a0d034fee1dbf770e6b95e33700f9466b3dc66352077909342080448ec90bdc26b65b305540b678cb71e3ce6bf2f2d2bdb7e0962e73073c072bd2d151eded",
+      "createdAt": 1791477360881
+    },
+    {
+      "id": "5bddf9d1-6a64-477e-950b-70fbb1762967",
+      "email": "test1791477438258@example.com",
+      "passwordHash": "9eac6c1dfe98849f7b9326c5d0309d1a:51376172afbcbf560767fa148e421fcfed98146296fa952f48f91689268d66236d726fa48cafa07c277f7866ca0007845d3e32e1d7d0cf9b2173d4789a425170",
+      "createdAt": 1791477438494
+    },
+    {
+      "id": "c62e09d5-42c8-4549-95bc-451efa9ab3e6",
+      "email": "test1791477514076@example.com",
+      "passwordHash": "41593cae08a2d2923a89e68773085434:2a61229e2cae54d93d9b6dc481c3a2a3b4fde55c6b530d677f46f9a03c3112433890229616bb0b5de7491e06f5512263259e8206735e2491a584037162b5704f",
+      "createdAt": 1791477514251
+    },
+    {
+      "id": "82662102-d79e-45d8-9030-6a8e1fd4be56",
+      "email": "test1791477670390@example.com",
+      "passwordHash": "f7f91c4fc81a4e57e02a37f0956a1048:aa8cf894350195a0a87340b025b06511d9d6b6469918821590e4161deb5058e805441b72fa6f6a630620877cdfe352a7df6ea2b6a533aedc892e4c280e7b3d8f",
+      "createdAt": 1791477670639
+    },
+    {
+      "id": "d61c540f-e54b-48fd-8443-e6ec7ef73c9f",
+      "email": "test1791477789427@example.com",
+      "passwordHash": "739aa6cd130413c6215a571e1ab5020f:f2762d833e98a3356baa659ccecfa9e3916308e81ad62bdf548ec551fea4854ce230e6ffb4a2e1e550aa760fe63b89faf456db61eb5885a23d00b7ee677570e4",
+      "createdAt": 1791477789610
+    },
+    {
+      "id": "50127126-557e-4d09-b8fa-0160ab05fc19",
+      "email": "test1791477831858@example.com",
+      "passwordHash": "8612236577a281fd417b5dc746dfa0a2:aa78adf33475db20546b78756a96072b3aa38548e034087f9e4baaa1b15e7b6465a25f78dd1d63cde89fb326a81b844cd4b1c451b6474ea08a3967c8a3524dbe",
+      "createdAt": 1791477832036
+    },
+    {
+      "id": "4985ad22-ec4f-4478-bc5b-4ad413ac0aa1",
+      "email": "test1791477914318@example.com",
+      "passwordHash": "9c2aaa37953987656d487aa8a4a6fabc:c723bcce97898114c198bd005e6febac95938255c5ef1cbece410dd1dd80444e46919fee09434f6957c7fa924f44e3b2182efc42e9527d8616d53fee5f5f232e",
+      "createdAt": 1791477914528
+    },
+    {
+      "id": "7944884a-0aac-4408-b464-66a26d0b5c1c",
+      "email": "test1791477992114@example.com",
+      "passwordHash": "9e71f88112e1c3a1024481b4ed1673ef:0ea78ca99441d32349468da8a91af3153c89fa847d9743ce31cf2b5d198eb3271de6970c5e394d4f7e3bc9c5c5b99573c50242e496a578577147d3f98822302a",
+      "createdAt": 1791477992291
+    },
+    {
+      "id": "6d9c5913-fa84-4039-91bf-a496caffaf62",
+      "email": "test1791478416553@example.com",
+      "passwordHash": "8c285c4d87fa61c8bd03f37b05641f4c:e4ace19726ffc73fe998c089d0a307df88050af2afb4cba9952721f890650630277e659f53f93e0b93a3a21315b0e36bb74e6deb2f63cf367c366ecab1224256",
+      "createdAt": 1791478416741
+    },
+    {
+      "id": "0a960ab6-a1df-4068-a0e8-869591aee7ab",
+      "email": "test1791478901944@example.com",
+      "passwordHash": "9f4e51d075037b0972746e827def14ae:0a1fecabb6fec2a2df3a78bc4845200f487b88053582786ee8788de0440f8fa276b91534e06cbeb9fe1dea2ffdd77ca6ed9c0523153d639300a36751898dbb7c",
+      "createdAt": 1791478902140
+    },
+    {
+      "id": "2fcd68c7-5b8b-4817-9251-da4ce421bdb4",
+      "email": "test1791479324029@example.com",
+      "passwordHash": "eefcba2370b49860b0327b34b50e0caa:f186d4e1691b43582237d8338309572346ede5ea2a5c1146cd9fa879fefe741486cde961e6d1a1dea926460e0b26a13e0553ecdfe0d7f68bd08dfe8e514ba582",
+      "createdAt": 1791479324183
+    },
+    {
+      "id": "48caa9b9-f81c-4237-a058-e7908ce25d32",
+      "email": "test1791479995485@example.com",
+      "passwordHash": "2a9d9368e000455376bdca918d570f2e:447df9cbe170165e24de4083fcadf1aeea2b6185c79ed9871b257f7a4fdbeaa036b647171c9c2e0533c5d14e4f57140f040b4ba5e778cc0a3d46ce9c692943ab",
+      "createdAt": 1791479995668
+    },
+    {
+      "id": "07249323-b8d9-45a4-abea-2e315f12e135",
+      "email": "test1791480054444@example.com",
+      "passwordHash": "46428ce81ff28a95f79253fc54874295:143f30d2e51df0513cf4f4885cf89a4d4f38d0f57e209c96a31f556f16e675b0c0b62784a3a6e34500fbe69bba5c86286d439316fc071b9b14ca7cad4cb049f1",
+      "createdAt": 1791480055091
+    },
+    {
+      "id": "40d4b049-a47a-4032-b5c3-7784adb873bf",
+      "email": "test1791480106777@example.com",
+      "passwordHash": "434e0e01553ea43c2cf72c78857bff3a:6d9de4a93d11921fbd1937300c7d85976a56ef50ff7937b9bb4481d47a12cc4a703123f3f599c9cb888a87c44142eb245d1356e0bc4b7f26cc73f8e4e20f1b3c",
+      "createdAt": 1791480106944
+    },
+    {
+      "id": "809790cc-d09d-4c9a-8040-56b1a91cf126",
+      "email": "test1791480892061@example.com",
+      "passwordHash": "028272126c0df8fd905ee2b5a0c4e5a6:aae363507c1fa86d3858d2f9a61ac48da6e895f07490aa755383f01ff15e146c668e8962548826b3384cbaeb292f7470d80a6bd8dc14672daec21e914634d32b",
+      "createdAt": 1791480893389
+    },
+    {
+      "id": "8bc4f9b9-84bc-41c0-b079-d24eb3de7881",
+      "email": "test1791481747043@example.com",
+      "passwordHash": "9bcfe6a8182a6656d0da67896f340924:965f6120bcf266c05638d3404ed4beb588398e330e770ac3e275239d022c6b6aac12c2c01f0d2975767069b44da526d7f6a2254065b3ec16f536cf0dbfd46fe3",
+      "createdAt": 1791481748085
+    },
+    {
+      "id": "862bff04-dcc3-44a7-b6f4-bf17f50ece12",
+      "email": "test@gmail.com",
+      "passwordHash": "3a1237d782bfb254c30b402565f229a1:19892d21c3a2ad80ce5b764fb1e46bc4225554463b153d1cc3ab7f4ce0cbfc6e976414ad78218f5f456edbe30915c7e77fc633db19d04ee98807e5603dc1b32d",
+      "createdAt": 1791482247251
+    },
+    {
+      "id": "c034b25c-8e71-4778-8b27-f69bde36e87b",
+      "email": "test@example.com",
+      "passwordHash": "6fb14f11b67b26268b9fe22a0fa692bf:80cd34cd6ced2ebdb32b1f1aa6dfdb45b614d6a7bcbc6e52565de25188d5741c5a8c59a6877d5067aebf3feb55e7d7c23ced17301c6197e3af28db4c71c8ec56",
+      "createdAt": 1791516789502
+    },
+    {
+      "id": "e068199d-21de-4c5b-95fc-319e4693626e",
+      "email": "test1791521960912@example.com",
+      "passwordHash": "f838162a09e5c8cb8be8c8bb2d536649:c3bf9f42f4259c07cb9e23b1dc597cae901ef13c4a08ae919f14da5cf1dd4e043a65ceb3b83c8dcd4d0de299df76f24543a242e9a690ef8b06cd465b147f16a0",
+      "createdAt": 1791521961429
+    },
+    {
+      "id": "bc5e6665-09e6-4b97-82a4-74b3c184727a",
+      "email": "test1791522546959@example.com",
+      "passwordHash": "430802adb2f7a1b230613c4ff6ca78c0:8a222d60408d55657465eb9b3be46ecb4c6363ff1aea7033f5e16636c6ab5cd4fcb58afb2c4d2d7a5387e7716ff78b001351cc93c49b4fa640ac9ef324e0e878",
+      "createdAt": 1791522547340
+    },
+    {
+      "id": "5ca38cc4-aabe-4f0a-a5cc-c7b0268bf052",
+      "email": "test1791522657373@example.com",
+      "passwordHash": "b009f4cabd37cb57d2b2fd8662875e35:f131a043b79e7748c7ca5a9bb5c0ce88a980de86ab84375ee108a9b62b1dda36411b8e8b331388daccb3a48d1d78460a1146c9e82c4536a2c8aabe68f81285e9",
+      "createdAt": 1791522657799
+    },
+    {
+      "id": "f5f0931f-f83d-4790-8db7-e2c1dbaa7938",
+      "email": "test1791522699019@example.com",
+      "passwordHash": "1b2c2e40c5c17cec7ac8faf611380c33:92ce491f3081899c56bdabe32d920074863e0842844b1e3f6edd3a8d59c0a53ba1adfce33011114e45a7ead33d06836ec0d79e4e0c703fbbb5ae92b770359baf",
+      "createdAt": 1791522699409
+    }
+  ],
+  "sessions": [
+    {
+      "sessionId": "1427be13d7fd0fdf7b43ce5b7cf0757328eb95a6f158f118c9eda5e24edb6053",
+      "userId": "0987b066-5dfb-4578-aaed-84c5d10c8016",
+      "expiresAt": 1792082048749
+    },
+    {
+      "sessionId": "dea51731d37dbf75aad5d1693cdf23b22a9c49a1bbab3e54f61a5801303d9241",
+      "userId": "edb11276-23eb-4a00-bacd-9eced0d03648",
+      "expiresAt": 1792082100854
+    },
+    {
+      "sessionId": "e537bc6ac47b7ffe579f8639cc811dafa0b857a5cdd09678230c28626d640207",
+      "userId": "7944884a-0aac-4408-b464-66a26d0b5c1c",
+      "expiresAt": 1792082793497
+    },
+    {
+      "sessionId": "8f7325a4561c5140a58788207e8f1b208864817ba6e21ab7ade7f396a5732e12",
+      "userId": "48caa9b9-f81c-4237-a058-e7908ce25d32",
+      "expiresAt": 1792084795675
+    },
+    {
+      "sessionId": "54e56123dfd7ab717f95efe16e49e150feac2c14091993cbc810162b0a275df5",
+      "userId": "07249323-b8d9-45a4-abea-2e315f12e135",
+      "expiresAt": 1792084855098
+    },
+    {
+      "sessionId": "237b0f6493d2ad89ef131ded47c00e33ab11eaf1b76aa3dcf76871c1bd6f30db",
+      "userId": "e068199d-21de-4c5b-95fc-319e4693626e",
+      "expiresAt": 1792126761448
+    },
+    {
+      "sessionId": "01f08c5f6cd5be0faf942ca075813921e23390b08812d1a6234ac1aaec5c6d8f",
+      "userId": "bc5e6665-09e6-4b97-82a4-74b3c184727a",
+      "expiresAt": 1792127347350
+    },
+    {
+      "sessionId": "ad516af976e8575cd17190fef499005255f0248ed5945d065c340e1b7129a047",
+      "userId": "5ca38cc4-aabe-4f0a-a5cc-c7b0268bf052",
+      "expiresAt": 1792127457809
+    }
+  ],
+  "profiles": {
+    "0987b066-5dfb-4578-aaed-84c5d10c8016": {
+      "id": "0987b066-5dfb-4578-aaed-84c5d10c8016",
+      "name": "Test User",
+      "email": "test1791477248549@example.com",
+      "preferredLanguage": "en",
+      "location": "",
+      "userType": "",
+      "createdAt": 1791477248744,
+      "updatedAt": 1791477248744
+    },
+    "edb11276-23eb-4a00-bacd-9eced0d03648": {
+      "id": "edb11276-23eb-4a00-bacd-9eced0d03648",
+      "name": "Test User",
+      "email": "test1791477300651@example.com",
+      "preferredLanguage": "en",
+      "location": "",
+      "userType": "",
+      "createdAt": 1791477300851,
+      "updatedAt": 1791477300851
+    },
+    "6c3087c2-6330-4b83-ab51-f0f456a97147": {
+      "id": "6c3087c2-6330-4b83-ab51-f0f456a97147",
+      "name": "Test User",
+      "email": "test1791477360446@example.com",
+      "preferredLanguage": "en",
+      "location": "",
+      "userType": "",
+      "createdAt": 1791477360881,
+      "updatedAt": 1791477360881
+    },
+    "5bddf9d1-6a64-477e-950b-70fbb1762967": {
+      "id": "5bddf9d1-6a64-477e-950b-70fbb1762967",
+      "name": "Test User",
+      "email": "test1791477438258@example.com",
+      "preferredLanguage": "en",
+      "location": "",
+      "userType": "",
+      "createdAt": 1791477438494,
+      "updatedAt": 1791477438494
+    },
+    "c62e09d5-42c8-4549-95bc-451efa9ab3e6": {
+      "id": "c62e09d5-42c8-4549-95bc-451efa9ab3e6",
+      "name": "Test User",
+      "email": "test1791477514076@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791477514251,
+      "updatedAt": 1791477514616
+    },
+    "82662102-d79e-45d8-9030-6a8e1fd4be56": {
+      "id": "82662102-d79e-45d8-9030-6a8e1fd4be56",
+      "name": "Test User",
+      "email": "test1791477670390@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791477670639,
+      "updatedAt": 1791477671018
+    },
+    "d61c540f-e54b-48fd-8443-e6ec7ef73c9f": {
+      "id": "d61c540f-e54b-48fd-8443-e6ec7ef73c9f",
+      "name": "Test User",
+      "email": "test1791477789427@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791477789610,
+      "updatedAt": 1791477789972
+    },
+    "50127126-557e-4d09-b8fa-0160ab05fc19": {
+      "id": "50127126-557e-4d09-b8fa-0160ab05fc19",
+      "name": "Test User",
+      "email": "test1791477831858@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791477832036,
+      "updatedAt": 1791477832320
+    },
+    "4985ad22-ec4f-4478-bc5b-4ad413ac0aa1": {
+      "id": "4985ad22-ec4f-4478-bc5b-4ad413ac0aa1",
+      "name": "Test User",
+      "email": "test1791477914318@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791477914528,
+      "updatedAt": 1791477914901
+    },
+    "7944884a-0aac-4408-b464-66a26d0b5c1c": {
+      "id": "7944884a-0aac-4408-b464-66a26d0b5c1c",
+      "name": "Test User",
+      "email": "test1791477992114@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791477992291,
+      "updatedAt": 1791477992639
+    },
+    "6d9c5913-fa84-4039-91bf-a496caffaf62": {
+      "id": "6d9c5913-fa84-4039-91bf-a496caffaf62",
+      "name": "Test User",
+      "email": "test1791478416553@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791478416741,
+      "updatedAt": 1791478417130
+    },
+    "0a960ab6-a1df-4068-a0e8-869591aee7ab": {
+      "id": "0a960ab6-a1df-4068-a0e8-869591aee7ab",
+      "name": "Test User",
+      "email": "test1791478901944@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791478902140,
+      "updatedAt": 1791478902479
+    },
+    "2fcd68c7-5b8b-4817-9251-da4ce421bdb4": {
+      "id": "2fcd68c7-5b8b-4817-9251-da4ce421bdb4",
+      "name": "Test User",
+      "email": "test1791479324029@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791479324183,
+      "updatedAt": 1791479324435
+    },
+    "48caa9b9-f81c-4237-a058-e7908ce25d32": {
+      "id": "48caa9b9-f81c-4237-a058-e7908ce25d32",
+      "name": "Test User",
+      "email": "test1791479995485@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791479995668,
+      "updatedAt": 1791479996066
+    },
+    "07249323-b8d9-45a4-abea-2e315f12e135": {
+      "id": "07249323-b8d9-45a4-abea-2e315f12e135",
+      "name": "Test User",
+      "email": "test1791480054444@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791480055091,
+      "updatedAt": 1791480055825
+    },
+    "40d4b049-a47a-4032-b5c3-7784adb873bf": {
+      "id": "40d4b049-a47a-4032-b5c3-7784adb873bf",
+      "name": "Test User",
+      "email": "test1791480106777@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791480106944,
+      "updatedAt": 1791480107327
+    },
+    "809790cc-d09d-4c9a-8040-56b1a91cf126": {
+      "id": "809790cc-d09d-4c9a-8040-56b1a91cf126",
+      "name": "Test User",
+      "email": "test1791480892061@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791480893389,
+      "updatedAt": 1791480896258
+    },
+    "8bc4f9b9-84bc-41c0-b079-d24eb3de7881": {
+      "id": "8bc4f9b9-84bc-41c0-b079-d24eb3de7881",
+      "name": "Test User",
+      "email": "test1791481747043@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791481748085,
+      "updatedAt": 1791481749572
+    },
+    "862bff04-dcc3-44a7-b6f4-bf17f50ece12": {
+      "id": "862bff04-dcc3-44a7-b6f4-bf17f50ece12",
+      "name": "Test User",
+      "email": "test@gmail.com",
+      "preferredLanguage": "en",
+      "location": "Dindigul",
+      "userType": "outdoor_worker",
+      "createdAt": 1791482247251,
+      "updatedAt": 1791482276123
+    },
+    "c034b25c-8e71-4778-8b27-f69bde36e87b": {
+      "id": "c034b25c-8e71-4778-8b27-f69bde36e87b",
+      "name": "test",
+      "email": "test@example.com",
+      "preferredLanguage": "en",
+      "location": "karur",
+      "userType": "resident",
+      "createdAt": 1791516789502,
+      "updatedAt": 1791522251854
+    },
+    "e068199d-21de-4c5b-95fc-319e4693626e": {
+      "id": "e068199d-21de-4c5b-95fc-319e4693626e",
+      "name": "Test User",
+      "email": "test1791521960912@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791521961429,
+      "updatedAt": 1791521963692
+    },
+    "bc5e6665-09e6-4b97-82a4-74b3c184727a": {
+      "id": "bc5e6665-09e6-4b97-82a4-74b3c184727a",
+      "name": "Test User",
+      "email": "test1791522546959@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791522547340,
+      "updatedAt": 1791522548659
+    },
+    "5ca38cc4-aabe-4f0a-a5cc-c7b0268bf052": {
+      "id": "5ca38cc4-aabe-4f0a-a5cc-c7b0268bf052",
+      "name": "Test User",
+      "email": "test1791522657373@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791522657799,
+      "updatedAt": 1791522659113
+    },
+    "f5f0931f-f83d-4790-8db7-e2c1dbaa7938": {
+      "id": "f5f0931f-f83d-4790-8db7-e2c1dbaa7938",
+      "name": "Test User",
+      "email": "test1791522699019@example.com",
+      "preferredLanguage": "en",
+      "location": "Chennai",
+      "userType": "outdoor_worker",
+      "createdAt": 1791522699409,
+      "updatedAt": 1791522700745
+    }
+  },
+  "settings": {
+    "0987b066-5dfb-4578-aaed-84c5d10c8016": {
+      "language": "en",
+      "units": "metric",
+      "notifications": false
+    },
+    "edb11276-23eb-4a00-bacd-9eced0d03648": {
+      "language": "en",
+      "units": "metric",
+      "notifications": false
+    },
+    "6c3087c2-6330-4b83-ab51-f0f456a97147": {
+      "language": "en",
+      "units": "metric",
+      "notifications": false
+    },
+    "5bddf9d1-6a64-477e-950b-70fbb1762967": {
+      "language": "en",
+      "units": "metric",
+      "notifications": false
+    },
+    "c62e09d5-42c8-4549-95bc-451efa9ab3e6": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "82662102-d79e-45d8-9030-6a8e1fd4be56": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "d61c540f-e54b-48fd-8443-e6ec7ef73c9f": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "50127126-557e-4d09-b8fa-0160ab05fc19": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "4985ad22-ec4f-4478-bc5b-4ad413ac0aa1": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "7944884a-0aac-4408-b464-66a26d0b5c1c": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "6d9c5913-fa84-4039-91bf-a496caffaf62": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "0a960ab6-a1df-4068-a0e8-869591aee7ab": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "2fcd68c7-5b8b-4817-9251-da4ce421bdb4": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "48caa9b9-f81c-4237-a058-e7908ce25d32": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "07249323-b8d9-45a4-abea-2e315f12e135": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "40d4b049-a47a-4032-b5c3-7784adb873bf": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "809790cc-d09d-4c9a-8040-56b1a91cf126": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "8bc4f9b9-84bc-41c0-b079-d24eb3de7881": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "862bff04-dcc3-44a7-b6f4-bf17f50ece12": {
+      "language": "en",
+      "units": "metric",
+      "notifications": false
+    },
+    "c034b25c-8e71-4778-8b27-f69bde36e87b": {
+      "language": "en",
+      "units": "metric",
+      "notifications": false
+    },
+    "e068199d-21de-4c5b-95fc-319e4693626e": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "bc5e6665-09e6-4b97-82a4-74b3c184727a": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "5ca38cc4-aabe-4f0a-a5cc-c7b0268bf052": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    },
+    "f5f0931f-f83d-4790-8db7-e2c1dbaa7938": {
+      "language": "ta",
+      "units": "metric",
+      "notifications": false
+    }
+  },
+  "assessments": {
+    "d61c540f-e54b-48fd-8443-e6ec7ef73c9f": {
+      "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+      "location": "Madurai",
+      "activityType": "construction",
+      "intensity": "light",
+      "environment": "outdoor",
+      "startTime": "",
+      "endTime": "",
+      "duration": "",
+      "ageGroup": "18-35",
+      "heatSensitivity": "normal",
+      "coolingAccess": "available",
+      "language": "en",
+      "updatedAt": 1791477790348
+    },
+    "50127126-557e-4d09-b8fa-0160ab05fc19": {
+      "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+      "location": "Madurai",
+      "activityType": "construction",
+      "intensity": "light",
+      "environment": "outdoor",
+      "startTime": "",
+      "endTime": "",
+      "duration": "",
+      "ageGroup": "18-35",
+      "heatSensitivity": "normal",
+      "coolingAccess": "available",
+      "language": "en",
+      "updatedAt": 1791477832665
+    },
+    "4985ad22-ec4f-4478-bc5b-4ad413ac0aa1": {
+      "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+      "location": "Madurai",
+      "activityType": "construction",
+      "intensity": "light",
+      "environment": "outdoor",
+      "startTime": "",
+      "endTime": "",
+      "duration": "",
+      "ageGroup": "18-35",
+      "heatSensitivity": "normal",
+      "coolingAccess": "available",
+      "language": "en",
+      "updatedAt": 1791477915310
+    },
+    "7944884a-0aac-4408-b464-66a26d0b5c1c": {
+      "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+      "location": "Madurai",
+      "activityType": "construction",
+      "intensity": "light",
+      "environment": "outdoor",
+      "startTime": "",
+      "endTime": "",
+      "duration": "",
+      "ageGroup": "18-35",
+      "heatSensitivity": "normal",
+      "coolingAccess": "available",
+      "language": "en",
+      "updatedAt": 1791477993023
+    },
+    "6d9c5913-fa84-4039-91bf-a496caffaf62": {
+      "input": {
+        "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791478417596,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791478417596,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791426600000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791430200000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791433800000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791437400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791441000000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791444600000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791448200000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791451800000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791455400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791459000000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "createdAt": 1791478417597,
+      "updatedAt": 1791478417597
+    },
+    "0a960ab6-a1df-4068-a0e8-869591aee7ab": {
+      "input": {
+        "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791478902858,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791478902858,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791426600000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791430200000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791433800000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791437400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791441000000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791444600000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791448200000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791451800000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791455400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791459000000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791478902858,
+        "methodologyVersion": "v1.0"
+      },
+      "createdAt": 1791478902858,
+      "updatedAt": 1791478902860
+    },
+    "2fcd68c7-5b8b-4817-9251-da4ce421bdb4": {
+      "input": {
+        "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791479324756,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791479324756,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791426600000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791430200000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791433800000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791437400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791441000000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791444600000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791448200000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791451800000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791455400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791459000000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791479324757,
+        "methodologyVersion": "v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (66/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791479328533,
+      "updatedAt": 1791479328533
+    },
+    "48caa9b9-f81c-4237-a058-e7908ce25d32": {
+      "input": {
+        "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791479996504,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791479996504,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791426600000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791430200000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791433800000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791437400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791441000000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791444600000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791448200000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791451800000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791455400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791459000000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791479996504,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": {
+        "current": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "recommended": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "exposureReductionPercent": 0,
+        "riskReductionPoints": 0,
+        "improvementAvailable": false,
+        "evaluatedCandidates": 11,
+        "dataQuality": "HIGH",
+        "methodologyVersion": "schedule-optimizer-v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (66/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791479996804,
+      "updatedAt": 1791479996804
+    },
+    "07249323-b8d9-45a4-abea-2e315f12e135": {
+      "input": {
+        "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791480056175,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791480056175,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791426600000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791430200000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791433800000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791437400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791441000000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791444600000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791448200000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791451800000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791455400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791459000000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791480056176,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": {
+        "current": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "recommended": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "exposureReductionPercent": 0,
+        "riskReductionPoints": 0,
+        "improvementAvailable": false,
+        "evaluatedCandidates": 11,
+        "dataQuality": "HIGH",
+        "methodologyVersion": "schedule-optimizer-v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (66/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791480056429,
+      "updatedAt": 1791480056429
+    },
+    "40d4b049-a47a-4032-b5c3-7784adb873bf": {
+      "input": {
+        "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791480107674,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791480107674,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791426600000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791430200000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791433800000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791437400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791441000000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791444600000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791448200000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791451800000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791455400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791459000000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791480107675,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": {
+        "current": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "recommended": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "exposureReductionPercent": 0,
+        "riskReductionPoints": 0,
+        "improvementAvailable": false,
+        "evaluatedCandidates": 11,
+        "dataQuality": "HIGH",
+        "methodologyVersion": "schedule-optimizer-v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (66/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791480110436,
+      "updatedAt": 1791480110437
+    },
+    "809790cc-d09d-4c9a-8040-56b1a91cf126": {
+      "input": {
+        "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791480899350,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791480899350,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791426600000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791430200000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791433800000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791437400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791441000000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791444600000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791448200000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791451800000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791455400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791459000000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791480899381,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": {
+        "current": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "recommended": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "exposureReductionPercent": 0,
+        "riskReductionPoints": 0,
+        "improvementAvailable": false,
+        "evaluatedCandidates": 11,
+        "dataQuality": "HIGH",
+        "methodologyVersion": "schedule-optimizer-v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (66/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791480899869,
+      "updatedAt": 1791480899871
+    },
+    "8bc4f9b9-84bc-41c0-b079-d24eb3de7881": {
+      "input": {
+        "$ACTION_ID_4009a7c41f357494f1b0a2d744ebca6c1b3eea2862": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791481751230,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791481751230,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791426600000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791430200000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791433800000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791437400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791441000000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791444600000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791448200000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791451800000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791455400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791459000000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791481751231,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": {
+        "current": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "recommended": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "exposureReductionPercent": 0,
+        "riskReductionPoints": 0,
+        "improvementAvailable": false,
+        "evaluatedCandidates": 11,
+        "dataQuality": "HIGH",
+        "methodologyVersion": "schedule-optimizer-v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (66/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791481751451,
+      "updatedAt": 1791481751452
+    },
+    "862bff04-dcc3-44a7-b6f4-bf17f50ece12": {
+      "input": {
+        "location": "Dindigul",
+        "activityType": "agriculture",
+        "intensity": "moderate",
+        "environment": "outdoor",
+        "startTime": "23:28",
+        "endTime": "01:29",
+        "duration": "2",
+        "ageGroup": "18-35",
+        "heatSensitivity": "sensitive",
+        "coolingAccess": "limited",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Dindigul",
+          "timestamp": 1791482344652,
+          "temperature": 36,
+          "humidity": 56,
+          "windSpeed": 11,
+          "uvIndex": 4,
+          "aqi": 66,
+          "pm25": 31,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791482344652,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": []
+      },
+      "riskAssessment": {
+        "score": 53,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 75,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 50,
+            "contribution": "Moderate",
+            "available": true,
+            "reason": "Moderate physical activity generates moderate metabolic heat."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 50,
+            "contribution": "Moderate",
+            "available": true,
+            "reason": "Moderate duration represents standard exposure."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Activity schedule avoids peak solar radiation hours."
+          }
+        ],
+        "primaryConcern": "heat",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": false,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791482344654,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": null,
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (53/100) due to heat. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Moderate physical activity generates moderate metabolic heat."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Moderate duration represents standard exposure."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule avoids peak solar radiation hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791482345033,
+      "updatedAt": 1791482345035
+    },
+    "c034b25c-8e71-4778-8b27-f69bde36e87b": {
+      "input": {
+        "location": "karur",
+        "activityType": "other",
+        "intensity": "moderate",
+        "environment": "indoor",
+        "startTime": "08:45",
+        "endTime": "16:40",
+        "duration": "8",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "limited",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "karur",
+          "timestamp": 1791517080486,
+          "temperature": 39,
+          "humidity": 69,
+          "windSpeed": 14,
+          "uvIndex": 7,
+          "aqi": 99,
+          "pm25": 44,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791517080486,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791513000000,
+            "temperature": 33,
+            "humidity": 61,
+            "uvIndex": 3,
+            "aqi": 107,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791516600000,
+            "temperature": 34,
+            "humidity": 59,
+            "uvIndex": 4,
+            "aqi": 109,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791520200000,
+            "temperature": 35,
+            "humidity": 57,
+            "uvIndex": 5,
+            "aqi": 111,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791523800000,
+            "temperature": 36,
+            "humidity": 55,
+            "uvIndex": 6,
+            "aqi": 113,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791527400000,
+            "temperature": 37,
+            "humidity": 53,
+            "uvIndex": 7,
+            "aqi": 115,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791531000000,
+            "temperature": 38,
+            "humidity": 51,
+            "uvIndex": 8,
+            "aqi": 117,
+            "pm25": 33
+          },
+          {
+            "timestamp": 1791534600000,
+            "temperature": 39,
+            "humidity": 49,
+            "uvIndex": 9,
+            "aqi": 119,
+            "pm25": 34
+          },
+          {
+            "timestamp": 1791538200000,
+            "temperature": 38,
+            "humidity": 51,
+            "uvIndex": 8,
+            "aqi": 117,
+            "pm25": 33
+          },
+          {
+            "timestamp": 1791541800000,
+            "temperature": 37,
+            "humidity": 53,
+            "uvIndex": 7,
+            "aqi": 115,
+            "pm25": 32
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 74,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Extreme temperature indicates severe heat stress potential. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 50,
+            "contribution": "Moderate",
+            "available": true,
+            "reason": "Moderate physical activity generates moderate metabolic heat."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791517080492,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": {
+        "current": {
+          "startTime": "08:45",
+          "endTime": "16:40",
+          "durationMinutes": 475,
+          "riskScore": 78,
+          "riskLevel": "VERY_HIGH",
+          "exposureIndex": 76,
+          "reason": "Heat Exposure, Duration, Time Context"
+        },
+        "recommended": {
+          "startTime": "09:00",
+          "endTime": "16:55",
+          "durationMinutes": 475,
+          "riskScore": 72,
+          "riskLevel": "HIGH",
+          "exposureIndex": 75,
+          "reason": "Heat Exposure, Duration, Time Context"
+        },
+        "exposureReductionPercent": 1,
+        "riskReductionPoints": 6,
+        "improvementAvailable": true,
+        "evaluatedCandidates": 13,
+        "dataQuality": "HIGH",
+        "methodologyVersion": "schedule-optimizer-v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (74/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "Extreme temperature indicates severe heat stress potential. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Moderate physical activity generates moderate metabolic heat."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791517081293,
+      "updatedAt": 1791517081298
+    },
+    "bc5e6665-09e6-4b97-82a4-74b3c184727a": {
+      "input": {
+        "$ACTION_ID_4058800ad53256679c31bf789c42cd4136f46d3be0": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791522550881,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791522550882,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791513000000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791516600000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791520200000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791523800000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791527400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791531000000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791534600000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791538200000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791541800000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791545400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791522550882,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": {
+        "current": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "recommended": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "exposureReductionPercent": 0,
+        "riskReductionPoints": 0,
+        "improvementAvailable": false,
+        "evaluatedCandidates": 11,
+        "dataQuality": "HIGH",
+        "methodologyVersion": "schedule-optimizer-v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (66/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791522551744,
+      "updatedAt": 1791522551748
+    },
+    "5ca38cc4-aabe-4f0a-a5cc-c7b0268bf052": {
+      "input": {
+        "$ACTION_ID_4058800ad53256679c31bf789c42cd4136f46d3be0": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791522661147,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791522661147,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791513000000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791516600000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791520200000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791523800000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791527400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791531000000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791534600000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791538200000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791541800000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791545400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791522661147,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": {
+        "current": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "recommended": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "exposureReductionPercent": 0,
+        "riskReductionPoints": 0,
+        "improvementAvailable": false,
+        "evaluatedCandidates": 11,
+        "dataQuality": "HIGH",
+        "methodologyVersion": "schedule-optimizer-v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (66/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791522661456,
+      "updatedAt": 1791522661461
+    },
+    "f5f0931f-f83d-4790-8db7-e2c1dbaa7938": {
+      "input": {
+        "$ACTION_ID_4058800ad53256679c31bf789c42cd4136f46d3be0": "",
+        "location": "Madurai",
+        "activityType": "construction",
+        "intensity": "light",
+        "environment": "outdoor",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "duration": "",
+        "ageGroup": "18-35",
+        "heatSensitivity": "normal",
+        "coolingAccess": "available",
+        "language": "en"
+      },
+      "environmental": {
+        "snapshot": {
+          "location": "Madurai",
+          "timestamp": 1791522702677,
+          "temperature": 37,
+          "humidity": 67,
+          "windSpeed": 7,
+          "uvIndex": 9,
+          "aqi": 57,
+          "pm25": 42,
+          "source": {
+            "provider": "FallbackDemoProvider",
+            "type": "fallback",
+            "fetchedAt": 1791522702677,
+            "isLive": false,
+            "fallback": true
+          }
+        },
+        "timeline": [
+          {
+            "timestamp": 1791513000000,
+            "temperature": 31,
+            "humidity": 59,
+            "uvIndex": 3,
+            "aqi": 65,
+            "pm25": 26
+          },
+          {
+            "timestamp": 1791516600000,
+            "temperature": 32,
+            "humidity": 57,
+            "uvIndex": 4,
+            "aqi": 67,
+            "pm25": 27
+          },
+          {
+            "timestamp": 1791520200000,
+            "temperature": 33,
+            "humidity": 55,
+            "uvIndex": 5,
+            "aqi": 69,
+            "pm25": 28
+          },
+          {
+            "timestamp": 1791523800000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          },
+          {
+            "timestamp": 1791527400000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791531000000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791534600000,
+            "temperature": 37,
+            "humidity": 47,
+            "uvIndex": 9,
+            "aqi": 77,
+            "pm25": 32
+          },
+          {
+            "timestamp": 1791538200000,
+            "temperature": 36,
+            "humidity": 49,
+            "uvIndex": 8,
+            "aqi": 75,
+            "pm25": 31
+          },
+          {
+            "timestamp": 1791541800000,
+            "temperature": 35,
+            "humidity": 51,
+            "uvIndex": 7,
+            "aqi": 73,
+            "pm25": 30
+          },
+          {
+            "timestamp": 1791545400000,
+            "temperature": 34,
+            "humidity": 53,
+            "uvIndex": 6,
+            "aqi": 71,
+            "pm25": 29
+          }
+        ]
+      },
+      "riskAssessment": {
+        "score": 66,
+        "level": "HIGH",
+        "factors": [
+          {
+            "id": "heat",
+            "name": "Heat Exposure",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "id": "aqi",
+            "name": "Air Quality",
+            "score": 30,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "id": "activity",
+            "name": "Activity Intensity",
+            "score": 20,
+            "contribution": "Low",
+            "available": true,
+            "reason": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "id": "duration",
+            "name": "Duration",
+            "score": 100,
+            "contribution": "High",
+            "available": true,
+            "reason": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "id": "time",
+            "name": "Time Context",
+            "score": 90,
+            "contribution": "High",
+            "available": true,
+            "reason": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "primaryConcern": "duration",
+        "dataQuality": {
+          "completeness": 100,
+          "environmentalDataAvailable": true,
+          "hourlyDataAvailable": true,
+          "confidence": "HIGH"
+        },
+        "evaluatedAt": 1791522702677,
+        "methodologyVersion": "v1.0"
+      },
+      "scheduleOptimization": {
+        "current": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "recommended": {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "durationMinutes": 540,
+          "riskScore": 46,
+          "riskLevel": "MODERATE",
+          "exposureIndex": 59,
+          "reason": "Duration, Time Context"
+        },
+        "exposureReductionPercent": 0,
+        "riskReductionPoints": 0,
+        "improvementAvailable": false,
+        "evaluatedCandidates": 11,
+        "dataQuality": "HIGH",
+        "methodologyVersion": "schedule-optimizer-v1.0"
+      },
+      "aiActionPlan": {
+        "summary": "Based on your assessment, the current risk level is HIGH (66/100) due to duration. Standard safety precautions apply.",
+        "keyFactors": [
+          {
+            "factor": "Heat Exposure",
+            "explanation": "High temperature increases heat stress risk. High humidity reduces evaporative cooling."
+          },
+          {
+            "factor": "Air Quality",
+            "explanation": "Air quality is acceptable; moderate concern for sensitive individuals."
+          },
+          {
+            "factor": "Activity Intensity",
+            "explanation": "Light physical activity limits metabolic heat generation."
+          },
+          {
+            "factor": "Duration",
+            "explanation": "Very long duration leads to severe accumulated exposure risk."
+          },
+          {
+            "factor": "Time Context",
+            "explanation": "Activity schedule overlaps with peak solar radiation and temperature hours."
+          }
+        ],
+        "actions": [
+          {
+            "priority": "HIGH",
+            "title": "Stay Hydrated",
+            "description": "Drink plenty of water at regular intervals.",
+            "category": "hydration"
+          },
+          {
+            "priority": "MEDIUM",
+            "title": "Rest in Shade",
+            "description": "Take breaks in shaded areas to reduce heat stress.",
+            "category": "rest"
+          }
+        ],
+        "scheduleGuidance": "Consider avoiding outdoor work during peak heat hours.",
+        "caution": "Standard safety guidance. Not a medical diagnosis.",
+        "language": "en",
+        "generatedBy": "fallback"
+      },
+      "createdAt": 1791522702969,
+      "updatedAt": 1791522702973
+    }
+  }
+}
